@@ -1,0 +1,98 @@
+          Pattern 1
+A basic pattern for a general undestanding and logic building.
+
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+
+        Pattern 2
+A right angle triangle pattern with '*'
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+
+        pattern 3
+A number triangle.
+
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5
+
+        Pattern 4
+A number triangle with number displaying number as line number.
+
+1
+22
+333
+4444
+55555
+
+        Pattern 5
+A reverse right angle triangle pattern by '*'
+
+*****
+****
+***
+**
+*
+
+        Pattern 6
+A reverse right angle triagle pattern by number series
+
+12345
+1234
+123
+12
+1
+
+        Pattern 7
+A pyramid pattern by '*'
+
+    *
+   ***
+  *****
+ *******
+*********
+
+        Pattern 8
+A reverse pyramid by '*'
+
+ *********
+  *******
+   *****
+    ***
+     *
+
+        Pattern 9
+A diamond pattern by '*'
+
+    *
+   ***
+  *****
+ *******
+*********
+*********
+ *******
+  *****
+   ***
+    *
+
+        Pattern 10
+A pyramid pattern by '*' rotated 90` to right
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
